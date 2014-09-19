@@ -3,3 +3,9 @@ this file records all command encountered
 git init LearnGit
 
 git add README
+
+git commit -m ''
+
+git remote add origin https://github.com/fieryoOo/LearnGit.git
+
+git config remote.origin.url git@github.com:fieryoOo/LearnGit.git
